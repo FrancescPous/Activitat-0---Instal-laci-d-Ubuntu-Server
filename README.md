@@ -47,13 +47,15 @@
    - Aquesta partició tindrà el tamany que sobra.
 
 8.Escollim zona horària
+
 ![cap9](https://github.com/user-attachments/assets/b9d5f42f-cf6e-4c13-a638-33d6bc17318f)
 
-
 9.Creem un usuari administrador i donem nom a l'equip
+
 ![cap10](https://github.com/user-attachments/assets/3ab018c9-22e5-4289-b081-c1de0d335697)
 
 
 10. Reiniciem el SO
+
 ![cap11](https://github.com/user-attachments/assets/4893df67-2a0c-4f05-bdde-8ac4391ae1e0)
 
