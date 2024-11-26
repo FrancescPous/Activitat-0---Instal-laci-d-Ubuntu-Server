@@ -55,8 +55,5 @@
 
 
 10. Reiniciem el SO
-    ![cap11](https://github.com/user-attachments/assets/4893df67-2a0c-4f05-bdde-8ac4391ae1e0)
-
-
-
+![cap11](https://github.com/user-attachments/assets/4893df67-2a0c-4f05-bdde-8ac4391ae1e0)
 
