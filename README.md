@@ -25,6 +25,7 @@
 ![cap7](https://github.com/user-attachments/assets/08a497a0-afe4-4d18-8b79-f57427725f1b)
 
 6.Crearem taula de particions
+
 7. Crearem les particions.
 
  - Partició boot:
@@ -41,10 +42,9 @@
    - Deixarem 10GB per a dades d'usuaris.
  - Root:
    - L'arrel del SO on estarà el kernel del sistema i les aplicacions.
-   - Aquesta partició tindrà el tamany que sobra.![cap8](https://github.com/user-attachments/assets/e8e43dc1-f5c2-4bc8-ad17-1bab260e0d32)
-
-
-Això ens deixa un espai lliure
+   - Aquesta partició tindrà el tamany que sobra.
+   
+  ![cap8](https://github.com/user-attachments/assets/e8e43dc1-f5c2-4bc8-ad17-1bab260e0d32)
 
 7. Crearem les particions.
 
